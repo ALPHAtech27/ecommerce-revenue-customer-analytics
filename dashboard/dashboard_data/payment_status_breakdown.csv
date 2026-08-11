@@ -1,0 +1,25 @@
+payment_method,payment_status,count
+Cash On Delivery,Failed,517
+Cash On Delivery,Pending,292
+Cash On Delivery,Refunded,490
+Cash On Delivery,Success,11831
+Credit Card,Failed,945
+Credit Card,Pending,433
+Credit Card,Refunded,937
+Credit Card,Success,19756
+Debit Card,Failed,679
+Debit Card,Pending,337
+Debit Card,Refunded,664
+Debit Card,Success,14631
+Net Banking,Failed,414
+Net Banking,Pending,228
+Net Banking,Refunded,438
+Net Banking,Success,9801
+Upi,Failed,1618
+Upi,Pending,830
+Upi,Refunded,1489
+Upi,Success,34883
+Wallet,Failed,363
+Wallet,Pending,166
+Wallet,Refunded,342
+Wallet,Success,7916

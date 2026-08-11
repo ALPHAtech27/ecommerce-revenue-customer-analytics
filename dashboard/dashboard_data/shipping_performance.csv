@@ -1,0 +1,5 @@
+shipping_method,shipments,avg_shipping_cost,avg_delivery_days,late_delivery_rate_pct
+Economy,15187,31.5,6.53,34.65
+Express,24910,157.49,6.51,34.21
+Same-Day,4943,262.55,6.49,33.54
+Standard,55061,62.96,6.49,33.82

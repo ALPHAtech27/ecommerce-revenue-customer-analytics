@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+.env
+*.egg-info/
+.pytest_cache/
+
+# Generated datasets
+data/raw/*.csv
+data/processed/*.csv
+data/processed/*.db 
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Power BI (binary, environment-specific -- not committed; see
+# dashboard/powerbi_dashboard_guide.md to rebuild from CSVs)
+*.pbix
+
+# Note: data/raw/, data/processed/, and dashboard/dashboard_data/ are
+# intentionally NOT ignored -- see data/README.md for why the processed
+# datasets are committed to this repository.

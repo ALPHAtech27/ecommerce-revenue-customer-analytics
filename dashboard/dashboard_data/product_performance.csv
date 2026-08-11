@@ -1,0 +1,321 @@
+product_id,product_name,category,brand,revenue,profit,quantity_sold,profit_margin_pct
+80,Highline Cameras Max,Electronics,Highline,43355022.37,14044744.540000001,3127,32.39
+152,Pulse Headphones Max,Electronics,Pulse,30329550.86,11032106.98,2743,36.37
+272,Verve Accessories Max,Electronics,Verve,26945668.94,8263410.74,2910,30.67
+271,Sable Sportswear Pro,Sports & Fitness,Sable,26198315.009999998,9206399.4,2931,35.14
+13,Vertex Headphones Pro,Electronics,Vertex,23595390.84,9766186.72,2764,41.39
+171,Crestline Mobiles Lite,Electronics,Crestline,21311582.19,7020762.09,2837,32.94
+62,Crestline Headphones Max,Electronics,Crestline,20290549.71,5579307.65,3049,27.5
+128,Urban Craft Cameras Max,Electronics,Urban Craft,19635555.39,7375782.45,2969,37.56
+56,Falcon Accessories Max,Electronics,Falcon,19587435.240000002,7751211.390000001,2755,39.57
+8,Falcon Headphones Max,Electronics,Falcon,19151984.02,6957842.58,3088,36.33
+117,Pioneer Laptops Lite,Electronics,Pioneer,18214085.61,2071942.06,2743,11.38
+319,Nimbus Cookware Pro,Home & Kitchen,Nimbus,17885385.77,7632465.77,3000,42.67
+134,Nimbus Mobiles Max,Electronics,Nimbus,17821410.67,2205589.88,2777,12.38
+34,Urban Craft Laptops Plus,Electronics,Urban Craft,17245129.400000002,2220583.4899999998,2871,12.88
+116,Urban Craft Furniture Max,Home & Kitchen,Urban Craft,16824751.84,7178820.99,2851,42.67
+189,Pioneer Cameras Lite,Electronics,Pioneer,14962302.02,3326010.99,2869,22.23
+75,Urban Craft Cameras Lite,Electronics,Urban Craft,14288398.6,3655598.8200000003,2878,25.58
+310,Highline Cameras Plus,Electronics,Highline,13537126.84,5874918.2,2902,43.4
+52,Pioneer Mobiles Plus,Electronics,Pioneer,13514131.709999999,5658941.71,2737,41.87
+246,Orbit Headphones Air,Electronics,Orbit,13376381.73,4931399.0,2771,36.87
+64,Nova Accessories Plus,Electronics,Nova,13313492.66,4728188.66,2912,35.51
+303,Zenith Tools Lite,Automotive,Zenith,12738408.52,4827001.94,2794,37.89
+261,Urban Craft Cameras Lite,Electronics,Urban Craft,12413284.48,2381270.84,3058,19.18
+219,Aria Car Accessories Lite,Automotive,Aria,12166945.91,4995937.98,2831,41.06
+151,Sable Lighting Pro,Home & Kitchen,Sable,11414744.17,1720501.67,2909,15.07
+193,Verve Furniture Pro,Home & Kitchen,Verve,11377153.35,4746106.15,2924,41.72
+37,Pulse Cookware Pro,Home & Kitchen,Pulse,11259074.39,4731725.91,2944,42.03
+150,Sable Cameras Air,Electronics,Sable,11237533.34,3707304.1,3001,32.99
+306,Verve Sportswear Air,Sports & Fitness,Verve,11166921.33,8752790.73,2814,78.38
+84,Lumen Headphones Air,Electronics,Lumen,10500545.65,1529755.21,2876,14.57
+119,Solace Tools Classic,Automotive,Solace,9975923.02,4011096.18,2891,40.21
+115,Nimbus Storage Pro,Home & Kitchen,Nimbus,9930013.04,3531682.91,2781,35.57
+102,Lumen Headphones Air,Electronics,Lumen,9841723.41,3198154.5100000002,2815,32.5
+78,Falcon Headphones Air,Electronics,Falcon,9738871.81,1215139.81,2856,12.48
+294,Orbit Storage Air,Home & Kitchen,Orbit,9701823.16,2991969.56,2872,30.84
+286,Lumen Bike Accessories Plus,Automotive,Lumen,9465208.370000001,3543178.37,3070,37.43
+188,Ecliptic Storage Max,Home & Kitchen,Ecliptic,9380301.92,3053341.6999999997,2973,32.55
+5,Crestline Sportswear Classic,Sports & Fitness,Crestline,9286760.45,1145419.19,3057,12.33
+79,Pioneer Car Accessories Pro,Automotive,Pioneer,8546519.5,1094708.5,2790,12.81
+252,Verve Storage Air,Home & Kitchen,Verve,8370815.89,2966221.44,3011,35.44
+276,Lumen Cycling Air,Sports & Fitness,Lumen,8294005.43,1497142.49,2967,18.05
+302,Orbit Baby Care Max,Toys & Baby,Orbit,8175084.53,2173423.89,2768,26.59
+318,Aria Furniture Air,Home & Kitchen,Aria,8048420.43,2382054.41,3134,29.6
+31,Falcon Car Accessories Pro,Automotive,Falcon,8047838.7,3361312.22,2776,41.77
+255,Nimbus Storage Lite,Home & Kitchen,Nimbus,7799848.53,1905084.59,2873,24.42
+279,Sable Storage Lite,Home & Kitchen,Sable,7755253.03,3243729.69,3001,41.83
+217,Urban Craft Gym Equipment Pro,Sports & Fitness,Urban Craft,7388959.2299999995,2516060.55,2852,34.05
+89,Falcon Cookware Classic,Home & Kitchen,Falcon,7341600.37,2534933.5,3009,34.53
+233,Solace Furniture Classic,Home & Kitchen,Solace,7227259.83,2453940.59,2956,33.95
+297,Crestline Home Decor Lite,Home & Kitchen,Crestline,7010234.600000001,3036120.86,2966,43.31
+45,Bluecrest Cookware Lite,Home & Kitchen,Bluecrest,6895442.13,1768044.33,2955,25.64
+308,Aria Car Accessories Max,Automotive,Aria,6848154.16,2420893.96,2628,35.35
+200,Kingsman Tools Max,Automotive,Kingsman,6785055.28,1509336.48,2810,22.25
+212,Solace Car Accessories Max,Automotive,Solace,6772671.38,2096064.34,2953,30.95
+172,Bluecrest Storage Plus,Home & Kitchen,Bluecrest,6675444.85,2200524.45,2813,32.96
+251,Highline Home Decor Classic,Home & Kitchen,Highline,6380103.46,2255790.0,2974,35.36
+99,Aria Games Lite,Toys & Baby,Aria,6197297.6,2267954.14,2723,36.6
+277,Lumen Watches Pro,Fashion,Lumen,6051636.3,2340811.26,2872,38.68
+1,Bluecrest Outdoor Pro,Sports & Fitness,Bluecrest,5997208.5,2597488.66,3071,43.31
+133,Pioneer Tools Pro,Automotive,Pioneer,5920761.38,662199.78,3040,11.18
+144,Meridian Car Accessories Air,Automotive,Meridian,5804448.5,1912747.3900000001,2813,32.95
+26,Lumen Tools Max,Automotive,Lumen,5549487.07,2025212.99,3064,36.49
+147,Falcon Women's Clothing Lite,Fashion,Falcon,5525578.67,1964572.99,2876,35.55
+240,Pioneer Sportswear Air,Sports & Fitness,Pioneer,5503955.13,1243156.01,2776,22.59
+245,Nova Storage Classic,Home & Kitchen,Nova,5237749.73,1596094.8699999999,2806,30.47
+180,Vertex Car Accessories Air,Automotive,Vertex,5166861.97,1038573.25,2946,20.1
+293,Bluecrest Furniture Classic,Home & Kitchen,Bluecrest,5103364.54,1478143.48,2934,28.96
+284,Meridian Baby Care Max,Toys & Baby,Meridian,5084201.92,1802168.54,2917,35.45
+66,Aria Baby Care Air,Toys & Baby,Aria,4900166.89,647851.94,2945,13.22
+281,Falcon Bags Classic,Fashion,Falcon,4878970.85,2066230.7,2705,42.35
+135,Crestline Gym Equipment Lite,Sports & Fitness,Crestline,4840686.62,1590083.97,2945,32.85
+167,Ecliptic Tools Classic,Automotive,Ecliptic,4814340.97,582475.97,2750,12.1
+21,Urban Craft Gym Equipment Lite,Sports & Fitness,Urban Craft,4724493.21,2008335.8099999998,3036,42.51
+46,Aria Pet Food Plus,Pet Supplies,Aria,4701105.16,1766034.52,2916,37.57
+290,Highline Footwear Max,Fashion,Highline,4604789.47,1559110.72,2791,33.86
+204,Verve Fragrances Air,Beauty & Personal Care,Verve,4597302.67,2009353.1300000001,2882,43.71
+156,Bluecrest Men's Clothing Air,Fashion,Bluecrest,4553546.32,1660640.43,2933,36.47
+223,Aria Home Decor Pro,Home & Kitchen,Aria,4534365.7,1325855.5,2940,29.24
+267,Lumen Storage Lite,Home & Kitchen,Lumen,4523563.640000001,1939100.48,2902,42.87
+15,Bluecrest Home Decor Lite,Home & Kitchen,Bluecrest,4456019.24,1912394.8399999999,3030,42.92
+206,Crestline Outdoor Max,Sports & Fitness,Crestline,4283794.859999999,1024526.5,2722,23.92
+92,Zenith Wellness Max,Health,Zenith,4240306.07,1474035.53,3149,34.76
+215,Sable Cookware Classic,Home & Kitchen,Sable,4199527.68,1030163.58,2894,24.53
+54,Sable Medical Devices Air,Health,Sable,4155497.27,1387557.27,2800,33.39
+124,Sable Bags Plus,Fashion,Sable,4070751.12,1275828.08,2762,31.34
+183,Falcon Pet Food Lite,Pet Supplies,Falcon,4050349.4699999997,2865833.27,2785,70.76
+197,Nova Toys Classic,Toys & Baby,Nova,4012711.65,1619298.69,3064,40.35
+210,Pioneer Gym Equipment Air,Sports & Fitness,Pioneer,3996962.56,1179821.92,2999,29.52
+98,Pioneer Bike Accessories Max,Automotive,Pioneer,3973844.08,1325866.24,2759,33.36
+118,Crestline Car Accessories Plus,Automotive,Crestline,3959126.55,1316724.95,3088,33.26
+222,Pioneer Car Accessories Air,Automotive,Pioneer,3939278.44,1517810.05,2843,38.53
+235,Verve Cookware Pro,Home & Kitchen,Verve,3936229.25,1054682.82,2891,26.79
+6,Falcon Gym Equipment Air,Sports & Fitness,Falcon,3909496.27,602426.76,3097,15.41
+195,Pioneer Outdoor Lite,Sports & Fitness,Pioneer,3885894.97,1172490.97,3196,30.17
+113,Crestline Car Accessories Classic,Automotive,Crestline,3883739.37,1545396.0,2871,39.79
+170,Urban Craft Car Accessories Max,Automotive,Urban Craft,3857627.77,1466158.69,2778,38.01
+256,Falcon Outdoor Plus,Sports & Fitness,Falcon,3822905.81,1336353.89,3196,34.96
+60,Meridian Pet Accessories Air,Pet Supplies,Meridian,3822332.73,1647568.03,2945,43.1
+50,Lumen Bike Accessories Max,Automotive,Lumen,3819032.4,1034509.9600000001,2956,27.09
+199,Meridian Watches Pro,Fashion,Meridian,3811239.93,739623.6900000001,2874,19.41
+114,Solace Stationery Air,Office Supplies,Solace,3804703.05,1380427.98,2881,36.28
+307,Ecliptic Sportswear Pro,Sports & Fitness,Ecliptic,3797395.38,779715.99,2871,20.53
+291,Nimbus Home Decor Lite,Home & Kitchen,Nimbus,3795145.23,1640594.73,2745,43.23
+48,Nimbus Bike Accessories Air,Automotive,Nimbus,3724988.62,1057825.13,2941,28.4
+239,Bluecrest Women's Clothing Classic,Fashion,Bluecrest,3692217.65,477373.33,2809,12.93
+264,Verve Bike Accessories Air,Automotive,Verve,3673259.65,1145978.05,2868,31.2
+121,Lumen Gym Equipment Pro,Sports & Fitness,Lumen,3657823.7,982670.24,2802,26.86
+7,Pulse Cookware Pro,Home & Kitchen,Pulse,3597205.67,1052227.57,2965,29.25
+232,Orbit Outdoor Plus,Sports & Fitness,Orbit,3559224.0,919916.24,3131,25.85
+237,Nova Gym Equipment Lite,Sports & Fitness,Nova,3527114.83,1290362.83,2880,36.58
+305,Meridian Games Classic,Toys & Baby,Meridian,3487922.38,758441.08,2898,21.74
+77,Highline Pet Accessories Classic,Pet Supplies,Highline,3464133.44,1220515.52,2826,35.23
+47,Solace Cycling Classic,Sports & Fitness,Solace,3446961.6199999996,890419.62,2980,25.83
+315,Zenith Cookware Lite,Home & Kitchen,Zenith,3399011.13,1135421.8499999999,2889,33.4
+257,Kingsman Haircare Classic,Beauty & Personal Care,Kingsman,3386047.32,1313506.54,2791,38.79
+162,Highline Baby Care Air,Toys & Baby,Highline,3375337.2199999997,1171295.46,2813,34.7
+69,Lumen Sportswear Lite,Sports & Fitness,Lumen,3362133.49,855780.97,2742,25.45
+20,Aria Bike Accessories Max,Automotive,Aria,3345716.62,1013444.8,2941,30.29
+12,Zenith Car Accessories Air,Automotive,Zenith,3341976.25,879723.73,2922,26.32
+262,Nimbus Games Plus,Toys & Baby,Nimbus,3322299.1,569659.75,2913,17.15
+317,Solace Bike Accessories Classic,Automotive,Solace,3318139.24,586909.96,3042,17.69
+253,Pulse Watches Pro,Fashion,Pulse,3312899.21,1225225.6099999999,2874,36.98
+109,Meridian Fragrances Pro,Beauty & Personal Care,Meridian,3291488.02,1389596.37,2735,42.22
+107,Bluecrest Supplements Classic,Health,Bluecrest,3271351.76,813587.0,2838,24.87
+153,Sable Wellness Lite,Health,Sable,3189615.55,708166.75,3030,22.2
+49,Lumen Women's Clothing Pro,Fashion,Lumen,3142176.25,1251778.0,2795,39.84
+73,Verve Furniture Pro,Office Supplies,Verve,3128288.64,1210500.54,3018,38.7
+51,Bluecrest Men's Clothing Lite,Fashion,Bluecrest,3110626.08,855497.88,3060,27.5
+241,Aria Games Pro,Toys & Baby,Aria,3049859.7600000002,1202127.34,2902,39.42
+225,Kingsman Pet Accessories Lite,Pet Supplies,Kingsman,3022174.4,1226269.7,3054,40.58
+10,Bluecrest Wellness Plus,Health,Bluecrest,2999496.55,994137.76,2911,33.14
+316,Falcon Bags Plus,Fashion,Falcon,2982898.27,648272.89,3002,21.73
+203,Crestline Sportswear Classic,Sports & Fitness,Crestline,2919517.93,1168127.29,3083,40.01
+76,Kingsman Bags Plus,Fashion,Kingsman,2899345.37,976665.97,2885,33.69
+127,Nimbus Bike Accessories Pro,Automotive,Nimbus,2896510.95,403190.25,3198,13.92
+191,Orbit Medical Devices Classic,Health,Orbit,2882094.06,1063746.18,2924,36.91
+157,Pioneer Non-Fiction Pro,Books,Pioneer,2833103.33,644101.93,2812,22.73
+17,Pulse Outdoor Classic,Sports & Fitness,Pulse,2823966.73,1070044.23,2773,37.89
+139,Kingsman Sportswear Pro,Sports & Fitness,Kingsman,2794408.91,994581.7100000001,2880,35.59
+320,Pulse Medical Devices Max,Health,Pulse,2776928.21,392747.57,3033,14.14
+182,Lumen Stationery Max,Office Supplies,Lumen,2746928.62,1130499.47,2905,41.16
+273,Crestline Watches Lite,Fashion,Crestline,2700518.52,352528.62,2858,13.05
+301,Zenith Baby Care Pro,Toys & Baby,Zenith,2645404.55,490110.33,2734,18.53
+30,Urban Craft Furniture Air,Office Supplies,Urban Craft,2641502.58,1081745.16,2847,40.95
+90,Ecliptic Cookware Air,Home & Kitchen,Ecliptic,2618789.1,-1353695.47,2749,-51.69
+146,Pioneer Gym Equipment Max,Sports & Fitness,Pioneer,2572894.56,263750.31,2845,10.25
+120,Pioneer Fragrances Air,Beauty & Personal Care,Pioneer,2511765.8,1067819.78,2838,42.51
+95,Pulse Medical Devices Classic,Health,Pulse,2510968.11,1050628.67,2954,41.84
+132,Vertex Baby Care Air,Toys & Baby,Vertex,2507519.66,860076.91,2693,34.3
+283,Urban Craft Baby Care Pro,Toys & Baby,Urban Craft,2502943.64,947834.64,2890,37.87
+142,Aria Cookware Plus,Home & Kitchen,Aria,2500489.23,1047586.83,3153,41.9
+43,Bluecrest Women's Clothing Pro,Fashion,Bluecrest,2496241.59,176392.32,2983,7.07
+168,Orbit Sportswear Air,Sports & Fitness,Orbit,2495842.7199999997,640554.74,2782,25.66
+137,Sable Haircare Classic,Beauty & Personal Care,Sable,2477287.8,626798.4500000001,2749,25.3
+213,Aria Furniture Lite,Office Supplies,Aria,2418380.62,600647.5,2996,24.84
+259,Crestline Cycling Pro,Sports & Fitness,Crestline,2397032.72,782365.22,2850,32.64
+27,Ecliptic Pet Accessories Lite,Pet Supplies,Ecliptic,2333313.58,809099.38,2945,34.68
+61,Vertex Pet Accessories Pro,Pet Supplies,Vertex,2320451.1,775606.9,2942,33.42
+63,Vertex Wellness Lite,Health,Vertex,2318968.89,669200.49,2856,28.86
+205,Vertex Haircare Pro,Beauty & Personal Care,Vertex,2286021.25,659307.4299999999,2943,28.84
+196,Meridian Pet Accessories Plus,Pet Supplies,Meridian,2276274.83,666795.67,2843,29.29
+158,Zenith Medical Devices Max,Health,Zenith,2256555.28,844866.76,2979,37.44
+214,Crestline Printers Plus,Office Supplies,Crestline,2233296.09,678725.51,2846,30.39
+23,Sable Non-Fiction Classic,Books,Sable,2231867.23,465885.67,2796,20.87
+93,Nimbus Supplements Lite,Health,Nimbus,2219970.85,928841.01,2804,41.84
+22,Pioneer Bags Plus,Fashion,Pioneer,2204411.55,832573.95,2954,37.77
+163,Crestline Furniture Pro,Office Supplies,Crestline,2199096.0300000003,488681.43,2778,22.22
+57,Falcon Pet Accessories Lite,Pet Supplies,Falcon,2179939.83,405028.23,2772,18.58
+2,Solace Haircare Max,Beauty & Personal Care,Solace,2170140.57,928311.17,2905,42.78
+312,Aria Toys Air,Toys & Baby,Aria,2159433.51,858569.5499999999,2948,39.76
+154,Ecliptic Toys Plus,Toys & Baby,Ecliptic,2126831.7,654010.81,3071,30.75
+270,Pioneer Toys Air,Toys & Baby,Pioneer,2124476.65,533423.2,2901,25.11
+130,Lumen Gym Equipment Plus,Sports & Fitness,Lumen,2121490.66,881594.5,3132,41.56
+125,Orbit Stationery Classic,Office Supplies,Orbit,2113133.7600000002,630537.76,2900,29.84
+169,Ecliptic Toys Pro,Toys & Baby,Ecliptic,2095007.3,784614.5,2952,37.45
+88,Zenith Toys Plus,Toys & Baby,Zenith,2058732.04,657343.48,3042,31.93
+285,Nova Pet Accessories Lite,Pet Supplies,Nova,2033474.1300000001,457189.33,3056,22.48
+218,Crestline Furniture Max,Office Supplies,Crestline,2031438.96,562762.8,3156,27.7
+309,Nova Makeup Lite,Beauty & Personal Care,Nova,1999164.96,692455.0,3004,34.64
+176,Falcon Skincare Max,Beauty & Personal Care,Falcon,1995068.82,728242.92,2965,36.5
+221,Zenith Wellness Classic,Health,Zenith,1987503.05,662001.55,2918,33.31
+184,Orbit Makeup Plus,Beauty & Personal Care,Orbit,1984922.78,688002.88,2851,34.66
+299,Urban Craft Wellness Classic,Health,Urban Craft,1975481.19,242739.99,2988,12.29
+145,Orbit Wellness Pro,Health,Orbit,1974104.1099999999,529830.31,2796,26.84
+194,Orbit Toys Max,Toys & Baby,Orbit,1970469.53,236557.61,2916,12.01
+258,Meridian Pet Food Air,Pet Supplies,Meridian,1948323.31,797452.81,2925,40.93
+82,Crestline Games Plus,Toys & Baby,Crestline,1930020.09,392146.17,3072,20.32
+71,Crestline Pet Accessories Classic,Pet Supplies,Crestline,1922416.05,813129.33,2934,42.3
+143,Sable Pet Accessories Classic,Pet Supplies,Sable,1916619.79,673409.43,2923,35.14
+282,Lumen Games Air,Toys & Baby,Lumen,1910637.1199999999,815173.62,2855,42.67
+226,Sable Wellness Plus,Health,Sable,1874153.9200000002,512581.83999999997,2794,27.35
+18,Solace Sportswear Air,Sports & Fitness,Solace,1852111.8,371782.62,2838,20.07
+138,Bluecrest Furniture Air,Office Supplies,Bluecrest,1819636.75,319896.64,2953,17.58
+129,Nimbus Children Lite,Books,Nimbus,1807739.04,293358.99,2985,16.23
+227,Orbit Outdoor Classic,Sports & Fitness,Orbit,1800025.33,705099.55,3081,39.17
+28,Orbit Supplements Plus,Health,Orbit,1797091.69,683952.08,2893,38.06
+36,Nimbus Skincare Air,Beauty & Personal Care,Nimbus,1791196.3,697908.11,2857,38.96
+224,Sable Cookware Max,Home & Kitchen,Sable,1781362.59,185946.18,2961,10.44
+161,Zenith Furniture Classic,Office Supplies,Zenith,1777675.74,505317.49,3109,28.43
+265,Highline Baby Care Pro,Toys & Baby,Highline,1765939.0,681360.4500000001,2827,38.58
+230,Sable Non-Fiction Max,Books,Sable,1761912.77,701916.13,2914,39.84
+236,Orbit Organic Max,Grocery,Orbit,1756584.91,664867.39,2776,37.85
+216,Kingsman Pet Accessories Air,Pet Supplies,Kingsman,1726500.19,574773.6,2813,33.29
+242,Falcon Furniture Max,Office Supplies,Falcon,1713308.62,524846.62,2904,30.63
+186,Aria Stationery Air,Office Supplies,Aria,1695890.07,504972.57,2910,29.78
+287,Ecliptic Wellness Classic,Health,Ecliptic,1686581.92,374027.31,2927,22.18
+53,Sable Women's Clothing Classic,Fashion,Sable,1674874.29,397050.65,2746,23.71
+249,Verve Home Decor Lite,Home & Kitchen,Verve,1670315.03,267806.83,2914,16.03
+87,Urban Craft Footwear Lite,Fashion,Urban Craft,1668806.3499999999,439272.15,2932,26.32
+35,Sable Wellness Classic,Health,Sable,1658269.55,241959.63,2962,14.59
+207,Urban Craft Furniture Lite,Office Supplies,Urban Craft,1657426.45,722678.51,2767,43.6
+220,Crestline Supplements Plus,Health,Crestline,1630085.86,327945.7,3111,20.12
+300,Zenith Wellness Air,Health,Zenith,1604332.21,560917.21,2950,34.96
+11,Highline Skincare Classic,Beauty & Personal Care,Highline,1602384.85,622091.4,2995,38.82
+292,Highline Furniture Plus,Office Supplies,Highline,1594029.21,635025.03,3006,39.84
+254,Meridian Pet Food Max,Pet Supplies,Meridian,1586816.25,486813.57,2916,30.68
+173,Nova Furniture Classic,Office Supplies,Nova,1584773.11,407360.86,2877,25.7
+231,Aria Makeup Lite,Beauty & Personal Care,Aria,1583376.46,232336.63,2923,14.67
+244,Meridian Baby Care Plus,Toys & Baby,Meridian,1583100.82,482500.9,2988,30.48
+140,Highline Pet Accessories Max,Pet Supplies,Highline,1570151.71,370121.41,2814,23.57
+33,Lumen Haircare Lite,Beauty & Personal Care,Lumen,1560571.67,426900.06,3011,27.36
+42,Falcon Fragrances Air,Beauty & Personal Care,Falcon,1545625.41,524419.41,2900,33.93
+25,Sable Cookware Pro,Home & Kitchen,Sable,1532470.8800000001,300097.88,2770,19.58
+40,Nimbus Toys Plus,Toys & Baby,Nimbus,1531610.83,541702.28,2983,35.37
+3,Vertex Pet Accessories Lite,Pet Supplies,Vertex,1527487.3900000001,328189.99,3027,21.49
+39,Lumen Gym Equipment Lite,Sports & Fitness,Lumen,1524197.05,-1000602.65,2943,-65.65
+250,Pulse Printers Plus,Office Supplies,Pulse,1520215.27,522405.35000000003,2944,34.36
+278,Nova Baby Care Max,Toys & Baby,Nova,1513709.36,477865.7,2862,31.57
+149,Highline Medical Devices Classic,Health,Highline,1507228.47,574440.15,2768,38.11
+108,Urban Craft Skincare Air,Beauty & Personal Care,Urban Craft,1507059.8,590026.59,2941,39.15
+65,Bluecrest Wellness Classic,Health,Bluecrest,1485488.48,285108.23,2965,19.19
+243,Highline Skincare Lite,Beauty & Personal Care,Highline,1478617.67,266659.99,2986,18.03
+304,Pioneer Children Plus,Books,Pioneer,1468226.39,329158.75,2806,22.42
+159,Pulse Women's Clothing Lite,Fashion,Pulse,1466438.57,434223.41,2806,29.61
+112,Highline Pet Food Plus,Pet Supplies,Highline,1452635.67,191253.66999999998,2735,13.17
+38,Bluecrest Fiction Max,Books,Bluecrest,1427584.3599999999,462725.36,2900,32.41
+311,Kingsman Skincare Classic,Beauty & Personal Care,Kingsman,1423572.54,613525.9400000001,3043,43.1
+185,Nova Toys Classic,Toys & Baby,Nova,1412700.17,553077.89,2804,39.15
+208,Pioneer Furniture Plus,Office Supplies,Pioneer,1406675.72,491088.46,2807,34.91
+29,Falcon Skincare Classic,Beauty & Personal Care,Falcon,1391392.67,196327.77,2995,14.11
+288,Lumen Pet Accessories Air,Pet Supplies,Lumen,1390722.57,453051.42,3055,32.58
+165,Zenith Makeup Lite,Beauty & Personal Care,Zenith,1385774.1,577904.1799999999,2992,41.7
+74,Lumen Children Max,Books,Lumen,1383292.5,203719.98,2814,14.73
+55,Ecliptic Toys Pro,Toys & Baby,Ecliptic,1382749.27,208868.77000000002,2886,15.11
+122,Ecliptic Haircare Max,Beauty & Personal Care,Ecliptic,1377787.01,543232.57,2903,39.43
+234,Solace Pet Accessories Air,Pet Supplies,Solace,1372356.0,427691.34,2811,31.16
+190,Pioneer Supplements Plus,Health,Pioneer,1364192.75,487873.91,2974,35.76
+192,Crestline Games Air,Toys & Baby,Crestline,1351718.7,222792.99,2811,16.48
+70,Nova Watches Plus,Fashion,Nova,1349522.25,440459.55,2814,32.64
+136,Solace Skincare Plus,Beauty & Personal Care,Solace,1337905.21,450639.61,2892,33.68
+100,Ecliptic Skincare Plus,Beauty & Personal Care,Ecliptic,1327762.25,569489.37,3032,42.89
+274,Highline Makeup Plus,Beauty & Personal Care,Highline,1294670.53,524084.26,2859,40.48
+229,Meridian Stationery Pro,Office Supplies,Meridian,1294543.72,354608.47000000003,2829,27.39
+14,Vertex Furniture Max,Office Supplies,Vertex,1276263.36,494324.44,2854,38.73
+19,Falcon Medical Devices Pro,Health,Falcon,1276251.96,300411.78,2787,23.54
+269,Meridian Supplements Classic,Health,Meridian,1242760.34,290047.24,3070,23.34
+296,Aria Toys Max,Toys & Baby,Aria,1215411.37,510811.13,2813,42.03
+131,Vertex Pet Accessories Classic,Pet Supplies,Vertex,1195123.17,422434.17,2846,35.35
+181,Verve Pet Food Pro,Pet Supplies,Verve,1182182.95,357968.43,2932,30.28
+110,Lumen Tools Max,Automotive,Lumen,1166882.64,270476.22,3066,23.18
+44,Kingsman Toys Max,Toys & Baby,Kingsman,1146523.03,374800.11,2956,32.69
+59,Nova Supplements Classic,Health,Nova,1136401.81,450285.4,2819,39.62
+67,Lumen Beverages Pro,Grocery,Lumen,1136381.28,476454.28,2956,41.93
+174,Highline Supplements Air,Health,Highline,1125349.6099999999,128177.93000000001,3021,11.39
+179,Highline Supplements Classic,Health,Highline,1112134.77,230915.97,2805,20.76
+177,Sable Sportswear Lite,Sports & Fitness,Sable,1101233.58,198485.58,2931,18.02
+68,Highline Fiction Max,Books,Highline,1097815.26,398798.26,3025,36.33
+123,Vertex Haircare Lite,Beauty & Personal Care,Vertex,1097033.41,420110.29,2829,38.3
+202,Ecliptic Makeup Plus,Beauty & Personal Care,Ecliptic,1088880.09,228262.91,2771,20.96
+275,Kingsman Children Classic,Books,Kingsman,1078436.66,432892.64,2893,40.14
+91,Zenith Supplements Pro,Health,Zenith,1071150.23,430783.49,2901,40.22
+101,Nimbus Furniture Classic,Office Supplies,Nimbus,1061557.44,148159.04,2896,13.96
+72,Kingsman Supplements Air,Health,Kingsman,1046874.65,149776.25,2820,14.31
+141,Falcon Organic Lite,Grocery,Falcon,993301.27,317531.37,2990,31.97
+175,Crestline Snacks Pro,Grocery,Crestline,939254.67,304733.22,2985,32.44
+160,Sable Academic Plus,Books,Sable,938787.93,187924.53,3066,20.02
+16,Falcon Printers Plus,Office Supplies,Falcon,922588.66,123582.56000000001,2995,13.4
+238,Ecliptic Children Plus,Books,Ecliptic,911954.17,232214.17,3000,25.46
+211,Nova Fiction Pro,Books,Nova,898820.97,362052.45,3012,40.28
+105,Lumen Pet Accessories Lite,Pet Supplies,Lumen,898039.0,263869.2,3020,29.38
+24,Bluecrest Fiction Air,Books,Bluecrest,861887.51,265883.66000000003,2873,30.85
+9,Pioneer Staples Lite,Grocery,Pioneer,851128.4199999999,246150.18,2888,28.92
+187,Urban Craft Furniture Pro,Office Supplies,Urban Craft,849857.92,139824.34,2862,16.45
+314,Meridian Wellness Max,Health,Meridian,847922.42,120765.4,3103,14.24
+104,Crestline Pet Food Max,Pet Supplies,Crestline,844729.69,114929.14,2801,13.61
+209,Meridian Games Classic,Toys & Baby,Meridian,794103.69,296886.01,2852,37.39
+32,Lumen Fiction Max,Books,Lumen,787394.72,109423.04,2823,13.9
+166,Meridian Toys Plus,Toys & Baby,Meridian,783049.38,120800.58,2820,15.43
+103,Urban Craft Baby Care Pro,Toys & Baby,Urban Craft,775958.82,254078.34,3102,32.74
+164,Urban Craft Academic Max,Books,Urban Craft,742600.09,126763.97,2854,17.07
+85,Verve Staples Pro,Grocery,Verve,739209.01,320532.99,2942,43.36
+298,Vertex Skincare Plus,Beauty & Personal Care,Vertex,734825.95,84889.69,2742,11.55
+97,Nimbus Non-Fiction Pro,Books,Nimbus,722678.56,226421.12,2828,31.33
+155,Pulse Academic Classic,Books,Pulse,719226.63,140335.11,2976,19.51
+106,Zenith Staples Plus,Grocery,Zenith,686867.22,248428.56,2882,36.17
+248,Urban Craft Wellness Max,Health,Urban Craft,668415.29,279431.21,2902,41.81
+178,Bluecrest Children Plus,Books,Bluecrest,662503.85,152160.11,2958,22.97
+96,Urban Craft Beverages Air,Grocery,Urban Craft,656993.45,134168.12,2859,20.42
+94,Meridian Skincare Plus,Beauty & Personal Care,Meridian,642706.57,164305.57,2926,25.56
+4,Bluecrest Non-Fiction Plus,Books,Bluecrest,642400.35,142304.65,2738,22.15
+266,Kingsman Haircare Max,Beauty & Personal Care,Kingsman,628282.61,261638.69,3048,41.64
+148,Pulse Beverages Plus,Grocery,Pulse,623257.09,103435.39,2946,16.6
+295,Aria Beverages Pro,Grocery,Aria,616256.8099999999,77528.53,3062,12.58
+86,Lumen Staples Max,Grocery,Lumen,608415.5599999999,249691.76,2907,41.04
+260,Bluecrest Toys Max,Toys & Baby,Bluecrest,606063.66,127169.65,2863,20.98
+313,Meridian Children Pro,Books,Meridian,583090.02,124189.86,2896,21.3
+263,Verve Stationery Classic,Office Supplies,Verve,570583.78,119984.1,3184,21.03
+83,Nimbus Haircare Classic,Beauty & Personal Care,Nimbus,567994.57,153197.62,2745,26.97
+201,Nimbus Fiction Lite,Books,Nimbus,546749.39,127645.06999999999,2841,23.35
+111,Bluecrest Non-Fiction Lite,Books,Bluecrest,546043.77,142141.32,2835,26.03
+58,Pioneer Academic Plus,Books,Pioneer,536667.42,101309.75,2959,18.88
+126,Vertex Toys Air,Toys & Baby,Vertex,526883.91,191187.43,2702,36.29
+198,Sable Staples Air,Grocery,Sable,521982.39,142248.38999999998,2850,27.25
+268,Nimbus Snacks Plus,Grocery,Nimbus,464665.37,105571.83,2983,22.72
+81,Orbit Snacks Lite,Grocery,Orbit,463847.95,138045.55,2838,29.76
+280,Vertex Beverages Plus,Grocery,Vertex,455785.23,82488.69,3009,18.1
+228,Aria Snacks Air,Grocery,Aria,437750.36,182678.54,3119,41.73
+289,Sable Skincare Pro,Beauty & Personal Care,Sable,437220.38,119485.34,3008,27.33
+247,Zenith Academic Pro,Books,Zenith,413214.36,71181.26,2867,17.23
+41,Ecliptic Staples Classic,Grocery,Ecliptic,412543.3,158818.9,2865,38.5
