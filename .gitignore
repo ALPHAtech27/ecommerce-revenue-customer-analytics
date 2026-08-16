@@ -25,7 +25,7 @@ Thumbs.db
 # Power BI (binary, environment-specific -- not committed; see
 # dashboard/powerbi_dashboard_guide.md to rebuild from CSVs)
 *.pbix
-
+!dashboard/Ecommerce_Revenue_Customer_Analytics.pbix
 # Note: data/raw/, data/processed/, and dashboard/dashboard_data/ are
 # intentionally NOT ignored -- see data/README.md for why the processed
 # datasets are committed to this repository.
