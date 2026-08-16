@@ -196,12 +196,52 @@ functions (`RANK`, `DENSE_RANK`, `ROW_NUMBER`, `LAG`, `SUM() OVER()`,
 rolling averages). Every statement has been executed against the real
 generated dataset. See `sql/`.
 
-## Power BI dashboard
 
-5-page dashboard (Executive Overview, Customer Analytics, Product
-Analytics, Operations, Geographic Analysis) with recommended
-relationships, DAX measures, calculated columns, slicers, and
-drill-through suggestions. See `dashboard/powerbi_dashboard_guide.md`.
+## 📊 Power BI Dashboard
+
+An interactive Power BI dashboard was developed to transform the analyzed e-commerce data into actionable business insights.
+
+### Dashboard Pages
+
+1. Executive Overview
+2. Customer Analytics
+3. Product & Profitability
+4. Operations & Customer Experience
+
+
+### Key Analysis
+
+- Revenue and profit performance
+- Monthly sales trends
+- Customer segmentation using RFM analysis
+- Customer Lifetime Value (CLV)
+- Product and category profitability
+- Payment and shipping performance
+- Delivery and customer ratings
+
+
+### Dashboard Preview
+
+#### Executive Overview
+
+![Executive Overview](dashboard/screenshots/executive_overview.png)
+
+#### Customer Analytics
+
+![Customer Analytics](dashboard/screenshots/customer_analytics.png)
+
+#### Product & Profitability
+
+![Product Analytics](dashboard/screenshots/product_analytics.png)
+
+#### Operations
+
+![Operations](dashboard/screenshots/operations.png)
+
+
+### Power BI Report
+
+[Download the Power BI Dashboard](dashboard/Ecommerce_Revenue_Customer_Analytics.pbix)
 
 ## Key business insights
 
